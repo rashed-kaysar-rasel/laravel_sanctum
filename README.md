@@ -6,7 +6,7 @@
 First clone the project and change the directory
 
 ```shell
-git clone https://github.com/Debuggers-Studio-Pro/laravel-api-boiler.git
+git clone https://github.com/Rasel15827/laravel_sanctum.git
 ```
 
 Then follow the process
